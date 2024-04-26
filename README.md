@@ -40,4 +40,4 @@
 <p align="left"> <img src="https://media.discordapp.net/attachments/1233419864631279749/1233464663891775619/image_1.png?ex=662d30fc&is=662bdf7c&hm=e885cd2719983dbffbc80273d0d3a88604236eefcab0937829be1e393810fcf1&&"width="420"> <br> </p>
 
 ### ☣ 〢 Virustotal (.jar)
-<p align="left"> <img src="https://cdn.discordapp.com/attachments/1045818871153696900/1164127355812462652/xs.png?ex=65421516&is=652fa016&hm=891cd807ab2df909e71bc94b07e3345ca4a3949d1d8420b14f5b38b021cb5801&&&"width="1920"> <br> </p>
+<p align="left"> <img src="https://media.discordapp.net/attachments/1233415685464522822/1233421637701996605/image.png?ex=662d08ea&is=662bb76a&hm=3991b0e13b62d80a020e25cd9c7fb81f218f33524974ba63c550f56a7d7d98f5&&&"width="1920"> <br> </p>
