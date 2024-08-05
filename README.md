@@ -3,36 +3,35 @@
 
 ### 👨‍💻 〢 devs
  - **[CanStealer](https://github.com/CanStealer)**
-### 🔱 〢 Features
-**☄️ General**
-- Discord all infos **(most featured grab)**
-- Discord guilds **(rare permissions)**
-- Steal all browsers Cookies **(all datas)**
-- Steal all browsers Passwords **(all datas)**
-- Steal all browsers AutoFills **(all datas)**
-- Cookies, Autofills, Passwords are stolen even if the browser is open.
-
-**✨ Application**
-- Discord
-
-**🎲 Game**
-- SonOyuncu
-- CraftRise
-
-**🖥️ System**
-- System Infos
-- Screenshot(s)
-
-
-**AND MORE..**
-
-### 🤞 〢 Additional
-**☄️ General**
-- Obfuscation **(custom)**
-- Undetected **(0/62)**
-- Support **(*.jar .exe .bat .dll(xray only) )**
-- Anti Debug/VM
-- Only Windows
+🔱 〢 Features
+☄️ Genel
+Discord Tüm Bilgiler (User, Token, ID, Email, Phone, MFA, Nitro, Billings ...)
+Discord Yetkili Ve Kurucu Olduğu Tüm Serverler (üye sayı bilgisiyle)
+Tüm Browserler (AutoFills, Cookie, Password)
+Steam Bilgi (Profil URL, Level, ID)
+Craftrise, Sonoyuncu (Kullanıcı Adı Şifre)
+Desktop (Masaüstünde Bulunan .txt Ler)
+ScreenShot
+System Infos
+Cards
+✨ Application
+Discord
+🎲 Game
+SonOyuncu
+CraftRise
+💉 Injection
+Startup Injector
+🖥️ System
+Desktop File
+Screenshot(s)
+AND MORE...
+🤞 〢 Additional
+☄️ General
+Obfuscation (custom)
+Undetected (0/62)
+Support (*.exe .dll .bat .jar)
+Anti Debug/VM
+Only Windows
 
 `You can purchase by opening a ticket on our Discord server.`
 
