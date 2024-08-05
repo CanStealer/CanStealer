@@ -1,5 +1,5 @@
 ### ☎ 〢 for contact
- - **[Discord Server](https://discord.gg/k6ADsKvjuB)**
+ - **[Discord Server](https://discord.gg/canstealer)**
 
 ### 👨‍💻 〢 devs
  - **[CanStealer](https://github.com/CanStealer)**
@@ -37,16 +37,16 @@
 `You can purchase by opening a ticket on our Discord server.`
 
 ### 🧫 〢 Embed (e.g)
-<p align="left"> <img src="https://media.discordapp.net/attachments/1233081575055429762/1233466026314825779/image.png?ex=662d3241&is=662be0c1&hm=0333ea122c72d95b8c465fb2c8f5186feacc9729ea693fd73a0c505d1d0afab1&&&"width="420"> <br> </p>
+<p align="left"> <img src="https://media.discordapp.net/attachments/1269940351448256545/1270003221540241499/image.png?ex=66b21e2b&is=66b0ccab&hm=6556d6eead06592b9a38f71b24d9d4bfa2e780a4f6a22d54ae889e1f6ff0b3ce&&&"width="420"> <br> </p>
 
 ### ☣ 〢 Virustotal (.jar)
-<p align="left"> <img src="https://media.discordapp.net/attachments/1233415685464522822/1233421637701996605/image.png?ex=662d08ea&is=662bb76a&hm=3991b0e13b62d80a020e25cd9c7fb81f218f33524974ba63c550f56a7d7d98f5&&&"width="1920"> <br> </p>
+<p align="left"> <img src="https://media.discordapp.net/attachments/1269993193806626858/1270010399911317547/image.png?ex=66b224da&is=66b0d35a&hm=1bde5d9370239877369d219f31ba60ad55b7986f6cc7ea398c372341227427bd&&&"width="1920"> <br> </p>
 
 ### ☣ 〢 Virustotal (.exe)
-<p align="left"> <img src="https://media.discordapp.net/attachments/1233415685464522822/1233423090894241813/image.png?ex=662d0a44&is=662bb8c4&hm=beacf331e5e63ca728aa884d9b89ffed8715efc34711ca5d19391534eb989dd3&&&"width="1920"> <br> </p>
+<p align="left"> <img src="https://media.discordapp.net/attachments/1269993193806626858/1270010378960769055/image.png?ex=66b224d5&is=66b0d355&hm=3a9c583e479cef5effa231c54a51e9e57053a012f741f8b56d164afba436b0c7&&&"width="1920"> <br> </p>
 
 ### ☣ 〢 Virustotal (.bat)
-<p align="left"> <img src="https://media.discordapp.net/attachments/1233415685464522822/1233422308924981278/image.png?ex=662d098a&is=662bb80a&hm=601b5bccb9d15b4ad925f362730e9b29379c94b211ab60e94e7f231c5b6e951c&&&"width="1920"> <br> </p>
+<p align="left"> <img src="https://cdn.discordapp.com/attachments/1269993193806626858/1270010446203584542/image.png?ex=66b224e6&is=66b0d366&hm=d8f4900360a6a61b6f940a2705fdabb9e5b32cf5acd4331560a92bf2523d63a4&&&&"width="1920"> <br> </p>
 
 ### ☣ 〢 Virustotal (.dll xray only)
-<p align="left"> <img src="https://media.discordapp.net/attachments/1233415685464522822/1233423826545803296/image.png?ex=662d0af4&is=662bb974&hm=c80a899853262c049c630a907afbd4f86d0033389efc67ae217b6ee3b81b03b8&&&"width="1920"> <br> </p>
+<p align="left"> <img src="https://media.discordapp.net/attachments/1269993193806626858/1270010059954458797/image.png?ex=66b22489&is=66b0d309&hm=bdc08e2ad5ff59a4ea492f224403d595b4a59b776dacb6a1ad5b28af60d741d1&&&"width="1920"> <br> </p>
